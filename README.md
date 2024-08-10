@@ -2,7 +2,7 @@
 Este tema esta inspirado en la paletta de colores [Catppucin Macchiato](https://catppuccin.com/palette)
 
 # Instalacion 
-- Siga los pasos recomendados por [Berikai](https://github.com/Berikai/awesome-bitwig-themes.git)
+- Siga los pasos recomendados por [Berikai](https://github.com/Berikai/bitwig-theme-editor.git)
 - Descargue el archivo [`macchiato.json`](macchiato.json)
 
 # Capturas
