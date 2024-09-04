@@ -4,6 +4,7 @@ Este tema esta inspirado en la paletta de colores [Catppucin Macchiato](https://
 # Instalacion 
 - Siga los pasos recomendados por [Berikai](https://github.com/Berikai/bitwig-theme-editor.git)
 - Descargue el archivo [`macchiato.json`](macchiato.json)
+- De manera **opcional** puede usar la paleta de colores que se encuentra en la carpeta `palette`
 
 # Capturas
 Configuracion de las capturas en bitwig
